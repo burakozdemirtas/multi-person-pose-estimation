@@ -4,7 +4,7 @@
 </div>
 
 
-<h1 align="center"> Multi Person Pose Estimation </h1>
+<h1 align="center"> Multi Person Pose Estimation - Çok Kişili Poz Tahmini </h1>
 <p align="justify">
 Bu proje, TensorFlow ve OpenCV kütüphanelerini kullanarak hareket algılama ve çoklu anahtar nokta tespiti işlemi gerçekleştiren bir örnek içerir. Proje, bir video dosyasından girdi alır ve Movenet modeli ile anahtar noktaları tespit eder.
 <br><br>This project contains an example of motion detection and multi-keypoint detection performed using TensorFlow and OpenCV libraries. The project takes input from a video file and detects key points using the Movenet model
