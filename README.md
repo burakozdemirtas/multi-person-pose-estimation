@@ -1,6 +1,8 @@
 <div align="center">
-<img src="https://github.com/burakozdemirtas/multi-person-pose-estimation/assets/33163650/ee7928e9-1ae6-4e53-93d0-f395aeefdc75" width="auto" height="auto">
+
+![Ekran görüntüsü 2023-08-30 005243](https://github.com/burakozdemirtas/multi-person-pose-estimation/assets/33163650/a03886be-7ca9-4557-966b-90b43d391f11)
 </div>
+
 
 <h1 align="center"> Multi Person Pose Estimation </h1>
 <p align="justify">
